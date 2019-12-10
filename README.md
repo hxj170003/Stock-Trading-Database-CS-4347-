@@ -1,1 +1,11 @@
 # Stock-Trading-Database-CS-4347-
+-	Our team will create a platform to back-test cryptocurrency trading strategies using data from a cryptocurrency fear & greed index API. 
+-	The program will calculate different market indicators and show when the best time to buy and sell is.
+-	Our group will be able to CRUD the contents of the data, managing it as necessary to provide users with accurate data and filters 
+-	API: https://alternative.me/crypto/fear-and-greed-index/
+-	This platform will not only be able to backtest cryptocurrencies but also a variety of different types of derivatives contracts.
+-	This will include stock options and futures contracts. We should be able to find the data needed for the options strategies by using the TDameritrade or Yahoo API.
+-	As for the futures contracts, all the information we need should be provided by the CME group. They also have several APIs depending on the exact projects your working on.
+-	All the information will be funneled through to the program creating several different types of market indicators depending on what you trade and your trading goals.
+-	CME Group API: https://www.cmegroup.com/market-data/datamine-api.html
+-	TDameritrade API: https://developer.tdameritrade.com/apis
